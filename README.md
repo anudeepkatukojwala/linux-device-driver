@@ -10,7 +10,6 @@ This project is a Linux device driver that provides encryption and decryption fu
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
