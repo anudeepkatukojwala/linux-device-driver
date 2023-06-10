@@ -37,7 +37,4 @@ To run this project, you need the following:
 
 To utilize the Linux Device Driver, refer to the writeup pdf document in this repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
